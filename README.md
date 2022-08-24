@@ -1,6 +1,6 @@
 # DSJ2 - unofficial update
 
-This repository contains modified DSJ2 game, so that it displays a yellow line indicating where current jumper has to jump in order to be first.
+This repository contains modified DSJ2 game, so that it displays a yellow line indicating where current jumper has to jump in order to be a leader or for his team to lead.
 
 ## Motivation
 
@@ -20,3 +20,7 @@ In order to install the update, you just need to replace the original executable
 - If the jumper has to jump 0m, the line will not be displayed.
 - Sometimes the jumper already has the advantage before his jump, for example he has the advantage of 34.6 points. The yellow line will not show the distance required to lose 34.6 points; in such a case, it will show the distance required to get 0 points.
 - Please keep in mind that it is an unofficial, fan made update. I get the permission from the game author - Jussi Koskela to share it with you, but it's my own initiative. Jussi didn't participate in the implementation, so he cannot approve it and it will remain unofficial.
+
+## Screenshots
+![](images/DSJ2_1.png)
+![](images/DSJ2_2.png)
